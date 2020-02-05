@@ -1,0 +1,2 @@
+# ECR721LotteryGift
+Exercises: ERC721 Standard and GiftLottery Now that you have finished CryptoZombies, you should have got the idea of the ERC721 Non-fungible token.  As holidays come, people at work exchange gifts. Therefore, the head of the team has decided to implement the ERC721 for gifts called GiftsLottery, in which people of the staff will send gifts to the contract and after a given time he will "randomly" distribute the gifts. 
