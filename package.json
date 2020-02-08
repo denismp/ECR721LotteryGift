@@ -1,0 +1,23 @@
+{
+  "name": "ecr721lotterygift",
+  "version": "1.0.0",
+  "description": "ERC721 Lotter Gift smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denismp/ECR721LotteryGift.git"
+  },
+  "author": "Denis Putnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denismp/ECR721LotteryGift/issues"
+  },
+  "homepage": "https://github.com/denismp/ECR721LotteryGift#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0",
+    "openzeppelin-solidity": "^2.5.0"
+  }
+}
