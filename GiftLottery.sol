@@ -1,17 +1,7 @@
 pragma solidity ^0.5.5;
 
-//import "./openzeppelin-contracts/contracts/token/ERC721/ERC721Full.sol";
-//import "./openzeppelin-contracts/contracts/drafts/Counters.sol";
 //import "@openzeppelin/contracts/token/ERC721/ERC721Full.sol";
 import "./node_modules/@openzeppelin/contracts/token/ERC721/ERC721Full.sol";
-//import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.3.0-rc.3/contracts/token/ERC721/ERC721Full.sol";
-
-//import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/drafts/Counters.sol";
-//import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721Full.sol";
-//import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721Full.sol";
-
-//import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721Full.sol";
-
 //import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.3.0-rc.3/contracts/token/ERC721/ERC721Full.sol";
 
 contract GiftLottery is ERC721Full {
